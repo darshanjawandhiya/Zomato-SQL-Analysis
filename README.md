@@ -1,6 +1,6 @@
 # Zomato-SQL-Analysis
-This is a **Zomato SQL Practice Repository**
-Welcome to the Zomato SQL Practice Repository! This repository provides a custom dataset for practicing SQL queries, with a focus on mastering the art of JOINS. The dataset consists of seven tables: food.csv, menu, restaurants, users, orders, delivery_partner, and order_details.
+This is a **Zomato SQL Practice Repository.**
+This repository provides a custom dataset for practicing SQL queries, with a focus on mastering the art of JOINS. The dataset consists of seven tables: food.csv, menu, restaurants, users, orders, delivery_partner, and order_details.
 ***
 ## How to Use
 1. Clone or download this repository to your local machine.
